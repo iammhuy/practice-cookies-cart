@@ -51,7 +51,7 @@
         <input type="submit" value="Continue Shopping">
     </form>
 
-    <form action="checkout.jsp" method="post">
+    <form action="checkout.jsp" method="get">
         <input type="submit" value="Checkout">
     </form>
 </body>
